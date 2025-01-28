@@ -4,8 +4,8 @@ body {
     background-size: cover;
     display: flex;
     justify-content: center;
-    min-height: 100vh;
-    gap: 30px;
+    min-height: 960px;
+    gap: 1440px;
 }
 
 h1 {
@@ -16,13 +16,17 @@ p {
     font-family: "Outfit-Regular", serif;
 }
 
+.cartao p {
+    margin-bottom: 26px;
+}
+
 
 .cartao {
     background-color: white;
     display: flex;
     flex-direction: column;
-    padding: 15px;
-    gap: 5px;
+    padding: 16px;
+    gap: 24px;
     position: absolute;
     border-radius: 20px;
 }
@@ -32,7 +36,7 @@ p {
     height: 495px;
     position: relative;
     padding: 12px;
-    top: 14vh;
+    top: 26vh;
 }
 
 
@@ -55,7 +59,7 @@ p {
     color: #68778D;
     text-align: center;
     line-height: 140%;
-    padding: 19px;
+    padding: 0px;
 }
 
 .imagem-qrcode {
