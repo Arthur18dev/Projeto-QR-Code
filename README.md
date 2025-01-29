@@ -3,7 +3,11 @@
 ![Design do Componete QR Code Concluído](./preview.jpg)
 
 ## Olá, de uma olhada! 👋
+- [Como iniciei]()
 
+
+
+# Como iniciei
 Comecei a adicionar `<header>` dentro do `<body>` no html criei uma `class` no `header` chamada qrcode `<header class="qrcode">`
 depois criei uma `<ul class="lista">` dentro do `<header>` também criei `<li class="cartao">` coloquei na `ul` coloquei as imagem usando esse código `<img src="./images/image-qr-code.png" alt="QR code" class="imagem-qrcode">` depois utilizei essa estrutura no projeto `<h1 class="titulo"></h1>` e no final criei um parágrafo `<p class="texto"></p>`
 
@@ -24,10 +28,9 @@ Gostei muito de fazer esse projeto, a finalidade que eu tinha era melhorar minha
 
 
 
+## Licença
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 **Obrigado por ter lido** 🚀
