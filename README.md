@@ -6,7 +6,7 @@
 - [Como iniciei](https://github.com/Arthur18dev/Projeto-QR-Code?tab=readme-ov-file#como-iniciei)
 - [Aprendizados](https://github.com/Arthur18dev/Projeto-QR-Code?tab=readme-ov-file#aprendizados)
 - [Cores que usei](https://github.com/Arthur18dev/Projeto-QR-Code?tab=readme-ov-file#cores-que-usei)
-- [licença](https://github.com/Arthur18dev/Projeto-QR-Code/blob/main/README.md#aprendizados)
+- [licença](https://github.com/Arthur18dev/Projeto-QR-Code?tab=readme-ov-file#licen%C3%A7a)
 
 
 # Como iniciei
@@ -23,10 +23,10 @@ Gostei muito de fazer esse projeto, a finalidade que eu tinha era melhorar minha
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Branco       | ![#FFFFFF](https://corhexa.com/ffffff#google_vignette) #FFFFFF |
-| Azul claro   | ![#d5e1ef](https://via.placeholder.com/10/f8f8f8?text=+) #d5e1ef |
-| Azul escuro  | ![#1f314f](https://via.placeholder.com/10/00b48a?text=+) #1f314f |
-| Cinza        | ![#68778d](https://via.placeholder.com/10/00b48a?text=+) #68778d |
+| Branco       | ![]() #ffffff |
+| Azul claro   | ![]() #d5e1ef |
+| Azul escuro  | ![]() #1f314f |
+| Cinza        | ![]() #68778d |
 
 
 
