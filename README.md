@@ -3,7 +3,7 @@
 ![Design do Componete QR Code Concluído](./preview.jpg)
 
 ## Olá, de uma olhada! 👋
-- [Como iniciei]()
+- [Como iniciei](https://github.com/Arthur18dev/Projeto-QR-Code?tab=readme-ov-file#como-iniciei)
 - [Aprendizados]()
 - [Cores que usei]()
 - [licença]()
