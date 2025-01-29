@@ -30,7 +30,7 @@ Gostei muito de fazer esse projeto, a finalidade que eu tinha era melhorar minha
 
 ## Licença
 
-[![MIT License]([https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/](https://github.com/Arthur18dev/Projeto-QR-Code?tab=MIT-1-ov-file))
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Arthur18dev/Projeto-QR-Code?tab=MIT-1-ov-file)
 
 
 **Obrigado por ter lido** 🚀
