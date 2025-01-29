@@ -21,7 +21,7 @@ Gostei muito de fazer esse projeto, a finalidade que eu tinha era melhorar minha
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Branco       | ![#FFFFFF](https://corhexa.com/ffffff#google_vignette?) #FFFFFF |
+| Branco       | ![#FFFFFF](https://corhexa.com/ffffff#google_vignette) #FFFFFF |
 | Azul claro   | ![#d5e1ef](https://via.placeholder.com/10/f8f8f8?text=+) #d5e1ef |
 | Azul escuro  | ![#1f314f](https://via.placeholder.com/10/00b48a?text=+) #1f314f |
 | Cinza        | ![#68778d](https://via.placeholder.com/10/00b48a?text=+) #68778d |
