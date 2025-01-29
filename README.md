@@ -4,7 +4,7 @@
 
 ## Olá, de uma olhada! 👋
 - [Como iniciei](https://github.com/Arthur18dev/Projeto-QR-Code?tab=readme-ov-file#como-iniciei)
-- [Aprendizados](https://github.com/Arthur18dev/Projeto-QR-Code/blob/main/README.md#aprendizados)
+- [Aprendizados](https://github.com/Arthur18dev/Projeto-QR-Code?tab=readme-ov-file#aprendizados)
 - [Cores que usei](https://github.com/Arthur18dev/Projeto-QR-Code/blob/main/README.md#aprendizados)
 - [licença](https://github.com/Arthur18dev/Projeto-QR-Code/blob/main/README.md#aprendizados)
 
